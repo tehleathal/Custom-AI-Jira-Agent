@@ -10,7 +10,7 @@ The inspiration for this project came from hosting a Jira ticket creation tool o
 Users and system errors often create similar tickets, so I wanted to see if the reasoning capabilities of LLMs could be used to automatically triage tickets by linking related issues, creating user stories, acceptance criteria, and priority.
 Additionally, giving users and product/ managerial stakeholders easier access to interact directly with Jira in natural language without any technical competencies was an interesting prospect.
 
-For more information, please read the medium article here. 
+For more information, please read the medium article [here](https://medium.com/@ljamesdatascience/custom-ai-jira-agent-google-mesop-django-langchain-agent-co-star-chain-of-thought-cot-and-fb903468bff6). 
 
 ![Custom AI Jira agent demo](https://github.com/user-attachments/assets/5d8b0a22-6673-408b-80c8-c1d28a83380a)
 
