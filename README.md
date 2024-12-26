@@ -14,6 +14,13 @@ For more information, please read the medium article [here](https://medium.com/@
 
 ![Custom AI Jira agent demo](https://github.com/user-attachments/assets/5d8b0a22-6673-408b-80c8-c1d28a83380a)
 
+## Examples 
+![Example workflow](https://github.com/user-attachments/assets/88d1a2eb-e43d-46aa-8b7f-d9f4b5b85eb5)
+![Jira result](https://github.com/user-attachments/assets/862c97e8-514b-4936-ae3b-0876f3d6a9db)
+![Docker logs](https://github.com/user-attachments/assets/9d3e8777-d4ce-4414-98f6-6a8827246255)
+![Tasks in progress](https://github.com/user-attachments/assets/7ecef653-3a08-4534-bbcf-05fb7f93d6cb)
+
+
 ## What is Google Mesop?
 Mesop is a relatively recent (2023) Python web framework used at Google for rapid AI app development.
 "Mesop provides a versatile range of 30 components, from low-level building blocks to high-level, AI-focused components. 
