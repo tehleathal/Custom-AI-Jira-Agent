@@ -170,3 +170,4 @@ tmp/
 temp.env
 hidden_config.ini
 logs/
+.env
